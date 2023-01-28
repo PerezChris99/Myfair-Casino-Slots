@@ -152,4 +152,5 @@ def main():
 
 main()
 
-#this does not belong to mayfair casino or any related enterprise, it's my personal work.abs(x)
+#DISCLAIMER !
+#this does not belong to mayfair casino or any related enterprise, it's my personal work.

@@ -155,3 +155,4 @@ main()
 #DISCLAIMER !
 #this does not belong to mayfair casino or any related enterprise, it's my personal work.
 #Didnt have any other name to use and mayfair came to my mind first, lol
+#soon adding more features to this simple betting program

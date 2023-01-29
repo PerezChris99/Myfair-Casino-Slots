@@ -157,3 +157,4 @@ main()
 #Didnt have any other name to use and mayfair came to my mind first, lol
 #soon adding more features to this simple betting program
 #a graphical user interface will definitely be added
+#tkinter to be used in creating the gui
